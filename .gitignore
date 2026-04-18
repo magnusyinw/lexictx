@@ -1,0 +1,7 @@
+data/
+results/
+benchmark_results.json
+benchmark_summary.json
+*.pyc
+__pycache__/
+.env
